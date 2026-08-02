@@ -14,7 +14,7 @@ Once I have achieved something, I will come back to this README.
 - Python (Have been a while since I last used), C++ (Currently learning)
 - Creativity (Still developing)
 - Pattern Recognition (Still developing)
-- There is really not much about this... YET
+- Currently vibe coding for a kinda huge project
 
 ## About me
 - Always open to learn
