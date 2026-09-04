@@ -6,15 +6,14 @@ I have acquired basic knowledge about Python, and I currently learning C++, look
 
 It seems ridiculous since I have no apparent goal but to create a small project (Like an extension or a website), but since I have nearly no directions about what to do with coding at this moment, I believe that is a great opportunity.
 
-"If you have no clues where to go, there are no wrong choices." 
+"If you have no clues where to go, there are no wrong ways." 
 
 Once I have achieved something, I will come back to this README.
 
 ## Skill Sets
-- Python (Have been a while since I last used), C++ (Currently learning)
-- Creativity (Still developing)
-- Pattern Recognition (Still developing)
-- Currently vibe coding for a kinda huge project
+- Python (Have been a while since I last used), C++ and Typescript (Currently learning)
+- Not to list
+- Currently making a kinda huge project
 
 ## About me
 - Always open to learn
